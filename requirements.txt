@@ -1,0 +1,7 @@
+Django
+djangorestframework
+celery
+requests
+beautifulsoup4
+redis
+selenium
